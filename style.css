@@ -1,9 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 body{
 
 
     font-family: 'Lato', sans-serif;
 font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
+}
+.containner{
+    max-width: 1128px;
+    margin: auto;
 }
 
 .banner_container{
@@ -34,10 +42,6 @@ font-size: 16px;
 
 
 }
-/* .img-width img{
-    width: 100%;
-  
-} */
 
 .img-width img{
     width:50%;
@@ -83,4 +87,97 @@ font-size: 16px;
     display: flex;
 
     width: 400px;;
+}
+
+
+.section-display{
+    height: 300px;
+    width: 100%;
+    margin-top: 100px;
+}
+.image{
+    float: left;
+    height: 280px;
+    width: 40%;
+}
+.image img{
+    height: 400px;
+    width: 400px;
+}
+.containt-document{
+    float: left;
+    height: 250px;
+    width: 60%;
+    margin-bottom: 100px;
+    
+}
+.containt-document h1{
+    font-size: 50px;
+}
+.containt-document button{
+    height: 60px;
+    width: 300px;
+    background: red;
+    border-radius: 5px;
+
+    
+}
+.containt-document button a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+.Global-community{
+    height: 400px;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+.document-containt{
+    float: left;
+    height: 250px;
+    width: 60%;
+}
+.document-containt h1{
+    font-size: 50px;
+}
+.document-containt button{
+    height: 60px;
+    width: 300px;
+    background: red;
+    border-radius: 5px;
+    
+}
+.document-containt button a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+.image1{
+    float: left;
+    height: 280px;
+    width: 40%;
+}
+.image1 img{
+    height: 400px;
+    width: 400px;
+}
+.footer{
+    height: 177px;
+    background: #000;
+    text-align: center;
+    padding-top:80px ;
+   
+}
+   
+}
+.footer h1{
+    color: #fff;
+}
+.footer h1 span{
+    color: red;
+}
+.footer{
+    color: #fff;
 }
