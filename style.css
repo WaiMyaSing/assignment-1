@@ -102,7 +102,7 @@ font-size: 16px;
 .containt-document button{
     height: 60px;
     width: 300px;
-    background: red;
+    background: #FF5959;
     border-radius: 5px;
 
     
@@ -130,7 +130,7 @@ font-size: 16px;
 .document-containt button{
     height: 60px;
     width: 300px;
-    background: red;
+    background: #FF5959;
     border-radius: 5px;
     
 }
