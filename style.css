@@ -1,0 +1,79 @@
+body{
+
+
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.design{
+
+    display: flex;
+    width: 50%;
+}
+.orange{
+    color: orange;
+
+}
+p{
+
+font-size: 16px;
+
+
+}
+.img-width{
+    width: 100%;
+  
+}
+.img-width img{
+    width: 100%;
+}
+
+.one{
+    font-size: 20px;
+    border-left: 5px solid red;
+    padding: 0 0 0 10px;
+}
+
+.button{
+text-decoration: none;
+background-image: linear-gradient( red, yellow);
+border-radius: 3px;
+padding: 5px 5px;
+font-size: 11px;
+}
+.align{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    width: 50%;
+}
+.size1{
+    box-shadow: 5px 5px 30px gray;
+    width:50%;
+    padding-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;background-color: violet;
+}
+.size1{
+    box-shadow: 1px 1px 10px gray;
+    width:50%;
+    padding-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+.size2{
+    box-shadow: 1px 1px 10px gray;
+    width:50%;
+    padding-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    background-color: palegreen;
+}
+.size3{
+    box-shadow: 1px 1px 10px gray;
+    width:50%;
+    padding-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;background-color: rosybrown;
+}
